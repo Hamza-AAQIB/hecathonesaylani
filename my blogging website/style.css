@@ -1,0 +1,139 @@
+*{
+    padding: 0px;
+    margin: 0px;
+     box-sizing: border-box;
+     font-family: sans-serif;
+}
+
+.header{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    padding: 20px 10%;
+    background-color: purple ;
+    display: flex;
+    justify-content: space-between  ;
+    align-items: center;
+    z-index: 100;
+    color: white;
+   
+    
+}
+
+
+.header a{
+    text-decoration: none;
+    color: white;
+}
+.navbar a {
+    text-decoration: none;
+    margin: 10px;
+    color: white
+    ;
+}
+
+ 
+   
+
+
+/* index */
+.parass{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+/* sign up */
+.signup-box {
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    margin-top:90px;
+  }
+
+
+
+  /* login */
+  .login-box {
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    margin-top: 100px;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  }
+  input[type="button"] {
+    width: 80px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: purple;
+    color: white;
+    font-size: 18px;
+
+margin-left:105px;}
+.bt{
+  width: 100px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: purple;
+    color: white;
+    font-size: 18px;
+}
+.we{
+  color: white;
+}
+.to{
+  background-color: aliceblue;
+  color: black;
+  text-align-last: auto;
+}
+H1 {
+  color: blueviolet;
+  background-color: aqua;
+  text-align: center;
+}
+.SATTI {
+  color: blue;
+  
+  text-align: center;
+}
+H2 {
+color: wheat;
+background-color: red;
+text-align: center;
+}
+img {
+  text-align: center;
+}
+ 
+ 
+
+  
